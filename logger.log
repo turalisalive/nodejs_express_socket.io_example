@@ -1,0 +1,471 @@
+++++++++++++++++    Tue May 16 2017 11:27:29 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:27:29 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: 192.168.35.37/sendSignatureCodeToUI
++ Request Content-Type: text/plain;charset=ISO-8859-1
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:27:29 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:27:29 GMT+0400 (Azerbaijan Standard Time)
++ Request Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:28:42 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:28:42 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: 192.168.35.37/sendSignatureCodeToUI
++ Request Content-Type: text/plain;charset=ISO-8859-1
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:28:42 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:28:42 GMT+0400 (Azerbaijan Standard Time)
++ Request Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:29:21 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:29:21 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: 192.168.35.37/sendSignatureCodeToUI
++ Request Content-Type: text/plain;charset=ISO-8859-1
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:29:21 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:29:21 GMT+0400 (Azerbaijan Standard Time)
++ Request Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:31:37 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:31:37 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: 192.168.35.37/sendSignatureCodeToUI
++ Request Content-Type: text/plain;charset=ISO-8859-1
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:31:37 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:31:37 GMT+0400 (Azerbaijan Standard Time)
++ Request Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:36:10 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:36:10 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: text/plain;charset=ISO-8859-1
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:36:10 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:36:10 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:39:02 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:39:02 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: text/plain;charset=ISO-8859-1
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:39:02 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:39:02 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:40:29 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:40:29 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: text/plain;charset=ISO-8859-1
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:40:29 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:40:29 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:41:39 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:41:39 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"requestNumber":"591a9df4858fe","token":{"token":null},"entity":{"phoneNumber":"+994502950770","userId":"080175","language":"aze","certificate":"6cbdf0e872cc7475","messageToDisplay":"E-lisenziya portanlına giriş.","ipAdd":"192.168.35.35","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36"}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:41:39 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:41:39 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:41:49 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:41:49 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: text/plain;charset=UTF-8
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:41:49 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:41:49 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:41:50 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 11:41:50 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: text/plain;charset=UTF-8
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 11:41:50 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 11:41:50 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:14:25 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 12:14:25 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"verificationCode":"4934"}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:14:25 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 12:14:25 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:14:55 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 12:14:55 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"verificationCode":"6064"}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:14:55 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 12:14:55 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:16:13 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 12:16:13 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"verificationCode":"3673"}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:16:13 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 12:16:13 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:17:13 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 12:17:13 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"verificationCode":"3487"}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:17:13 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 12:17:13 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:19:18 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 12:19:18 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"verificationCode":"4004"}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:19:18 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 12:19:18 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:20:20 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 12:20:20 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"verificationCode":"6114"}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:20:20 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 12:20:20 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:23:00 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Tue May 16 2017 12:23:00 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendSignatureCodeToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"verificationCode":"6533"}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Tue May 16 2017 12:23:00 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Tue May 16 2017 12:23:00 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:09:44 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:09:44 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/javascript
++ Request Method: POST
++ Request Body: {}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:10:35 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:10:35 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:10:35 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:10:35 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:13:42 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:13:42 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:14:24 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:14:24 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:14:24 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:14:24 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:14:27 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:14:27 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:14:27 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:14:27 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:15:35 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:15:35 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:15:35 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:15:35 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:15:43 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:15:43 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:15:43 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:15:43 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:16:59 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:16:59 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:16:59 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:16:59 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:11 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:17:11 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:11 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:17:11 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:17 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:17:17 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:17 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:17:17 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:27 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:17:27 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:27 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:17:27 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:28 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:17:28 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:28 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:17:28 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:30 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:17:30 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:17:30 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:17:30 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:18:49 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:18:49 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:18:49 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:18:49 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:47:08 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:47:08 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:47:08 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:47:08 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:47:15 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:47:15 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:47:15 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:47:15 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"5D5FD547-39A4-42F9-A077-D8F0075D1DF3","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:48:59 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:48:59 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"111123","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:48:59 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:48:59 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:49:03 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:49:03 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"111123","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:49:03 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:49:03 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:49:15 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:49:15 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"111123","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:49:15 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:49:15 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:49:21 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: REQUEST!
++ Date: Thu Oct 18 2018 12:49:21 GMT+0400 (Azerbaijan Standard Time)
++ Request URL: localhost/sendNotificationToUI
++ Request Content-Type: application/json
++ Request Method: POST
++ Request Body: {"entity":{"userId":"111123","message":{"sdfgsd":656}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++    Thu Oct 18 2018 12:49:21 GMT+0400 (Azerbaijan Standard Time) ++++++++++++++++
++ TYPE: RESPONSE!
++ Date: Thu Oct 18 2018 12:49:21 GMT+0400 (Azerbaijan Standard Time)
++ Response Body: "Accepted!"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
