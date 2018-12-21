@@ -63,8 +63,6 @@ io.on('connection', function (socket) {
             }
         }
     });
-
-
 });
 
 /* Send notification */
